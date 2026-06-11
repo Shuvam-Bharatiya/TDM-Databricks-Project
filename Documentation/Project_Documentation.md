@@ -40,17 +40,25 @@ Sensitive columns masked:
 Example:
 
 Before Masking:
+
+
 | Name | Phone |
 
 |--------|--------|
 
 | John Smith | 9876543210 |
+
+
 After Masking:
+
+
 | Name | Phone |
 
 |--------|--------|
 
 | J*** | 98XXXXXX10 |
+
+
 ---
 
 ## Validation Results
